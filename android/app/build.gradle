@@ -76,7 +76,7 @@ android {
 
     namespace "com.bigbass"
     defaultConfig {
-        applicationId "com.bigbass"
+        applicationId "com.fishpass.app"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
