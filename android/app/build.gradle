@@ -74,12 +74,12 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace "com.bigbass"
+    namespace "com.fishingtheme"
     defaultConfig {
         applicationId "com.fishpass.app"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
-        versionCode 1
+        versionCode 2
         versionName "1.0"
     }
     signingConfigs {

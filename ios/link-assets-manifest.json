@@ -1,0 +1,277 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/shared/assets/fonts/Montserrat-Black.ttf",
+      "sha1": "ea4feb16f3d8cb3f1cbc8e3a7af7388cc01ce32e"
+    },
+    {
+      "path": "src/shared/assets/fonts/Montserrat-BlackItalic.ttf",
+      "sha1": "d439bd54958ff80dc23d4d3edc5a5115a6e827a8"
+    },
+    {
+      "path": "src/shared/assets/fonts/Montserrat-Bold.ttf",
+      "sha1": "c7d907722af4fb845ab97d515bb414f29651f000"
+    },
+    {
+      "path": "src/shared/assets/fonts/Montserrat-BoldItalic.ttf",
+      "sha1": "eee7f440754eb6ecbfcc461e9af2536ed0286a7f"
+    },
+    {
+      "path": "src/shared/assets/fonts/Montserrat-ExtraBold.ttf",
+      "sha1": "4a2cbee7a7ab79ab2cf0c120c962384dc240b237"
+    },
+    {
+      "path": "src/shared/assets/fonts/Montserrat-ExtraBoldItalic.ttf",
+      "sha1": "f6ab908d898677add7044582e5a3e961317fe75f"
+    },
+    {
+      "path": "src/shared/assets/fonts/Montserrat-ExtraLight.ttf",
+      "sha1": "c198620afdbc8ebbb68ea2b71ffab9188037d602"
+    },
+    {
+      "path": "src/shared/assets/fonts/Montserrat-ExtraLightItalic.ttf",
+      "sha1": "a2fc69ceaf90f83fc899ee75190b3ef954e5e073"
+    },
+    {
+      "path": "src/shared/assets/fonts/Montserrat-Italic.ttf",
+      "sha1": "763e9c22a750ff1241aacf1e0e4d3050827b9783"
+    },
+    {
+      "path": "src/shared/assets/fonts/Montserrat-Light.ttf",
+      "sha1": "1db8878a7654208b6c55402f6ff717e03a312e1e"
+    },
+    {
+      "path": "src/shared/assets/fonts/Montserrat-LightItalic.ttf",
+      "sha1": "91fcb7d72360f81be21a4b1fda01959d16179735"
+    },
+    {
+      "path": "src/shared/assets/fonts/Montserrat-Medium.ttf",
+      "sha1": "4656e40419da86a5fec473ea8e7fc0efef183f05"
+    },
+    {
+      "path": "src/shared/assets/fonts/Montserrat-MediumItalic.ttf",
+      "sha1": "95bcdfd1606d7b1970a12399d23ddf8fbeeb490e"
+    },
+    {
+      "path": "src/shared/assets/fonts/Montserrat-Regular.ttf",
+      "sha1": "1c8119b38eef1914a4fbd9f6cfdedf198445ab97"
+    },
+    {
+      "path": "src/shared/assets/fonts/Montserrat-SemiBold.ttf",
+      "sha1": "d491c9d0af61faef59ca807737b560170f547f5b"
+    },
+    {
+      "path": "src/shared/assets/fonts/Montserrat-SemiBoldItalic.ttf",
+      "sha1": "d5b90fca448ac51e9410d7c8de07eb64be27ed25"
+    },
+    {
+      "path": "src/shared/assets/fonts/Montserrat-Thin.ttf",
+      "sha1": "447838642258b95e8a61df1770189f962cc0741b"
+    },
+    {
+      "path": "src/shared/assets/fonts/Montserrat-ThinItalic.ttf",
+      "sha1": "04f69417392da5f6f831fd89e6ff5698323fdecb"
+    },
+    {
+      "path": "src/shared/assets/images/a.jpg",
+      "sha1": "fa8b58215796896d7e10b903551b74e5122c3329"
+    },
+    {
+      "path": "src/shared/assets/images/activeinfo.png",
+      "sha1": "d08f9c2d2b83d999c9fd8f288fcc7be9d52721ca"
+    },
+    {
+      "path": "src/shared/assets/images/angelfish.png",
+      "sha1": "121ae6ef0b756971a9df0b7faf719f3b03a092b5"
+    },
+    {
+      "path": "src/shared/assets/images/angelfishstory.jpg",
+      "sha1": "d5bd9ed69259d61b3419d976ad27815bd9528dd7"
+    },
+    {
+      "path": "src/shared/assets/images/barracuda.png",
+      "sha1": "8accbdd071476b77a3ec5cad29dee487caab05a9"
+    },
+    {
+      "path": "src/shared/assets/images/barracudastory.jpg",
+      "sha1": "c8ff4f46b17099bb6c4c267c6c851c59be427925"
+    },
+    {
+      "path": "src/shared/assets/images/bookstory.jpeg",
+      "sha1": "16ff9e03c0f3795b427ed7004850db766d9c73a7"
+    },
+    {
+      "path": "src/shared/assets/images/catfish.png",
+      "sha1": "de7c0bfaf75ac7321c3821e4887b08bd511c26f4"
+    },
+    {
+      "path": "src/shared/assets/images/catfishstory.jpg",
+      "sha1": "0081e6667cdc6f02904ab87b59876d987954155a"
+    },
+    {
+      "path": "src/shared/assets/images/close.png",
+      "sha1": "e64efb6e2db14062cc8e42cd92653b21b2253cea"
+    },
+    {
+      "path": "src/shared/assets/images/clownfish.png",
+      "sha1": "11e27f20f2f9127fbcd84c095d33500f9aa1c2ac"
+    },
+    {
+      "path": "src/shared/assets/images/clownfishstory.jpg",
+      "sha1": "5caeeed052896c36668350062125280d5382cb71"
+    },
+    {
+      "path": "src/shared/assets/images/d.jpg",
+      "sha1": "48b684709991785ad7330de2d573b61ea1f290a9"
+    },
+    {
+      "path": "src/shared/assets/images/eye.png",
+      "sha1": "104d09868f27038a572fea93d843ad6380bb8726"
+    },
+    {
+      "path": "src/shared/assets/images/fishingbg.png",
+      "sha1": "c2018906229047866c62bde42921c94307a5dfc5"
+    },
+    {
+      "path": "src/shared/assets/images/g.jpg",
+      "sha1": "4165c20a2a962f650279ff0af0ae7e24772eeb53"
+    },
+    {
+      "path": "src/shared/assets/images/goldfish.png",
+      "sha1": "609729a2596caf89a7c553badca1fd1cc8e97035"
+    },
+    {
+      "path": "src/shared/assets/images/goldfishstory.jpg",
+      "sha1": "17016d274607299bcc2127558733130d0c6fa67a"
+    },
+    {
+      "path": "src/shared/assets/images/h.jpg",
+      "sha1": "50d91701a2bcf746c42013a18a634066e003a998"
+    },
+    {
+      "path": "src/shared/assets/images/home.png",
+      "sha1": "ac642c1dcefc03f95c4c7d7f6aa8f4aba9abe006"
+    },
+    {
+      "path": "src/shared/assets/images/homeactive.png",
+      "sha1": "40a2d7edb901f7cfed74f211fb055459213c4701"
+    },
+    {
+      "path": "src/shared/assets/images/i.jpg",
+      "sha1": "8c579bb49e0e86845a522584a5f57752070e56a1"
+    },
+    {
+      "path": "src/shared/assets/images/imageplaceholder.png",
+      "sha1": "cffd80c881b954cfbe637fafa40ae38b57ec776a"
+    },
+    {
+      "path": "src/shared/assets/images/info.png",
+      "sha1": "2646ad89e36342f997779f3827916d921b2817e3"
+    },
+    {
+      "path": "src/shared/assets/images/j.jpg",
+      "sha1": "467f036d841eb40dc9ce32a8fa9f34b38a2e60fb"
+    },
+    {
+      "path": "src/shared/assets/images/k.jpg",
+      "sha1": "cb038d47898633cf4586d0e2201bcddf39243403"
+    },
+    {
+      "path": "src/shared/assets/images/l.jpg",
+      "sha1": "56530433373380bb43534e7e4bd6821630c4b2d4"
+    },
+    {
+      "path": "src/shared/assets/images/location.png",
+      "sha1": "97ac668a2186590bf66fd52731548b40b85e392a"
+    },
+    {
+      "path": "src/shared/assets/images/logo.png",
+      "sha1": "daa05af9dfd368166645b1d1e272a09ad4737a66"
+    },
+    {
+      "path": "src/shared/assets/images/mainmenubg.jpeg",
+      "sha1": "a505ae8c0da48cdb907a648f61c4ffcf8ed1254d"
+    },
+    {
+      "path": "src/shared/assets/images/marlin.png",
+      "sha1": "d88b93c2a129493d7a484ffb09397474925cae41"
+    },
+    {
+      "path": "src/shared/assets/images/marlinstory.jpg",
+      "sha1": "ab1d5e8545b21a145c9f6df6f730697abc167bde"
+    },
+    {
+      "path": "src/shared/assets/images/pufferfish.png",
+      "sha1": "4d2d4b437c9731aa0ce21cd55951f0c50f3b9bd7"
+    },
+    {
+      "path": "src/shared/assets/images/pufferfishstory.jpg",
+      "sha1": "c75d7092f9e82205461893b54933921f96b301a2"
+    },
+    {
+      "path": "src/shared/assets/images/q.jpg",
+      "sha1": "3580debafc6ddc6c8e8f0a2cd0428753b705b8ef"
+    },
+    {
+      "path": "src/shared/assets/images/s.jpg",
+      "sha1": "e2dd55a6b7ca037d9e6bf67e5b8296b7ef2097ac"
+    },
+    {
+      "path": "src/shared/assets/images/salmon.png",
+      "sha1": "1829c9e539bae9570d913cb1421579357a65195d"
+    },
+    {
+      "path": "src/shared/assets/images/salmonstory.jpg",
+      "sha1": "2177ca47b8c456e371283cb5c4117901b7c28bed"
+    },
+    {
+      "path": "src/shared/assets/images/score.png",
+      "sha1": "64e3a1a21d05b041e62cc5c608634cbab6a041ad"
+    },
+    {
+      "path": "src/shared/assets/images/settings.png",
+      "sha1": "b0e1d92e8cb991ff16f374bbc3029906e2f852c7"
+    },
+    {
+      "path": "src/shared/assets/images/settingsactive.png",
+      "sha1": "5031e25713761cbc8a0076a2bb611bc5417ac54d"
+    },
+    {
+      "path": "src/shared/assets/images/share.png",
+      "sha1": "6049424ae53aa8e412cfe926386b2b5709b06c82"
+    },
+    {
+      "path": "src/shared/assets/images/shop.png",
+      "sha1": "814c7c321f4a8f62c9da3bc740d80523d4229e1c"
+    },
+    {
+      "path": "src/shared/assets/images/shopactive.png",
+      "sha1": "ad6006781edf48a6cc5f1d549c44e09729e35dd0"
+    },
+    {
+      "path": "src/shared/assets/images/shopbg.png",
+      "sha1": "5ae0458c6948f674209b45868a072b5ce781154b"
+    },
+    {
+      "path": "src/shared/assets/images/sword.png",
+      "sha1": "3a1223ff0dc6781b59e2074a4b17beb6e11ead8c"
+    },
+    {
+      "path": "src/shared/assets/images/swordfishstory.jpg",
+      "sha1": "8307fe6117b28599067f5918c29a875762905729"
+    },
+    {
+      "path": "src/shared/assets/images/tuna.png",
+      "sha1": "b0c2b6db2d6183b26f11e8d30cd8f609472576c1"
+    },
+    {
+      "path": "src/shared/assets/images/tunastory.jpg",
+      "sha1": "013ead744ede22cd312514887296fc3db56b4133"
+    },
+    {
+      "path": "src/shared/assets/music/backgroundmusic.mp3",
+      "sha1": "7021ce115b62c8e54f9f03d59e7acb73dc6e993b"
+    }
+  ]
+}
